@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on
   - stickz : https://github.com/oceakun/stickz-frontend
   - csv-visualizer : https://github.com/oceakun/csv-visualizer
-  - mesazh : https://github.com/mesazh/mesazh-frontend
 - 🌱 I’m currently learning 
   - Django 
   - Golang
