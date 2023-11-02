@@ -6,9 +6,9 @@
   - csv-visualizer : https://github.com/oceakun/csv-visualizer
   - mesazh : https://github.com/mesazh/mesazh-frontend
 - 🌱 I’m currently learning 
-  - Golang 
-  - grpc, protobufs
-  - D3.js
+  - Django 
+  - Golang
+  - CLI Applications
 - 👯 I’m looking to collaborate on 
   - backend projects  
 - 📫 Find me on
