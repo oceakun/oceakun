@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on
   - dcm : https://github.com/oceakun/stickz-frontend
 - 🌱 I’m currently learning 
-  - Golang
+  - System design
   - CLI Applications
-  - End-to-end applications
+  - Devops
 - 👯 I’m looking to collaborate on 
   - full-stack projects  
 - 📫 Find me on
