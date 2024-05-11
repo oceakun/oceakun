@@ -2,14 +2,12 @@
 
 
 - 🔭 I’m currently working on
-  - stickz : https://github.com/oceakun/stickz-frontend
-  - csv-visualizer : https://github.com/oceakun/csv-visualizer
+  - dcm : https://github.com/oceakun/stickz-frontend
 - 🌱 I’m currently learning 
-  - Django 
   - Golang
   - CLI Applications
+  - End-to-end applications
 - 👯 I’m looking to collaborate on 
-  - backend projects  
+  - full-stack projects  
 - 📫 Find me on
   - twitter : /oceakun
-  - linkedin : /sagar-deep
