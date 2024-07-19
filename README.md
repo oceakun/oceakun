@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on
-  - dcm : https://github.com/oceakun/stickz-frontend
+  - dcm : https://github.com/oceakun/dcm
 - 🌱 I’m currently learning 
   - System design
   - CLI Applications
