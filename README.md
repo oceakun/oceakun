@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on
   - dcm : https://github.com/oceakun/dcm
+  - editez : https://github.com/oceakun/editez
 - 🌱 I’m currently learning 
   - System design
   - CLI Applications
