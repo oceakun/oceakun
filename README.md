@@ -5,9 +5,10 @@
   - dcm : https://github.com/oceakun/dcm
   - editez : https://github.com/oceakun/editez
 - 🌱 I’m currently learning 
-  - System design
+  - optimization,caching
   - CLI Applications
-  - Devops
+  - containerization+CI/CD+deployment
+  - writing test suites
 - 👯 I’m looking to collaborate on 
   - full-stack projects  
 - 📫 Find me on
