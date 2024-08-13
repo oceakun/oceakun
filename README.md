@@ -8,8 +8,6 @@
   - optimization,caching
   - CLI Applications
   - containerization+CI/CD+deployment
-  - writing test suites
-- 👯 I’m looking to collaborate on 
-  - full-stack projects  
+  - writing test suites 
 - 📫 Find me on
   - twitter : /oceakun
