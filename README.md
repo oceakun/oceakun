@@ -10,4 +10,4 @@
   - containerization+CI/CD+deployment
   - writing test suites 
 - 📫 Find me on
-  - twitter : /oceakun
+  - x : /oceakun
