@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on
+  - chariotx: https://github.com/oceakun/chariotx
   - dcm : https://github.com/oceakun/dcm
-  - editez : https://github.com/oceakun/editez
 - 🌱 I’m currently learning 
   - optimization,caching
   - CLI Applications
